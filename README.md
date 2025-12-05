@@ -137,6 +137,10 @@ The project demonstrates how engineering design thinking can be applied beyond h
 
 ---
 
+The ML model code file is in this link - https://colab.research.google.com/drive/1ZnR9FmzteLofRJmvM71ln2VuC7LjPh4f?usp=sharing
+
+University of Helsinki, Finland - https://www.cs.helsinki.fi/
+
 ## Final Note
 
 Replacing phones is easy.
